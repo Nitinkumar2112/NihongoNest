@@ -4,7 +4,7 @@ NihongoNest is a comprehensive, all-in-one Android application designed for mast
 
 This app was built from scratch as a personal portfolio project, demonstrating modern Android development techniques, a scalable architecture, and a complete implementation of a hybrid monetization model.
 
-✨ Core Features 
+✨ Core Features -:
 
 Multi-Level Selection: A beautiful, animated level selection screen (N5-N1) that greets the user on their first launch.
 
