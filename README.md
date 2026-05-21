@@ -67,3 +67,9 @@ Gamification: Implementing daily streaks, XP points, and achievement badges to i
 Firebase Integration: Adding Firebase Authentication for user accounts and using Firestore to sync user progress across multiple devices.
 
 This app was built as a personal portfolio project by Nitin Kumar.
+
+<img width="300" height="900" alt="WhatsApp Image 2025-09-16 at 11 13 03_2b502fb4" src="https://github.com/user-attachments/assets/6223513e-fd41-4635-9cb8-bc25b1bc1cc6" />
+<img width="300" height="900" alt="WhatsApp Image 2025-09-16 at 11 13 03_3d61c7a0" src="https://github.com/user-attachments/assets/753e4ac7-4978-42d1-a7d1-bba5c4e05351" />
+<img width="300" height="900" alt="WhatsApp Image 2025-09-16 at 11 13 04_fd5fe39f" src="https://github.com/user-attachments/assets/86c9a383-ff4d-4ede-a800-544275250d99" />
+
+
